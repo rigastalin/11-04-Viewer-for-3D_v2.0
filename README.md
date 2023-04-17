@@ -2,6 +2,8 @@
 
 Implementation of 3DViewer v2.0
 
+![GIF animation](https://github.com/rigastalin/11-04-Viewer-for-3D_v2.0/blob/562420a5deecdcf2418ed806c6254650330f1cf6/viewer2.gif)
+
 
 ## Contents
 
